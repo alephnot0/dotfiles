@@ -1,7 +1,12 @@
 ### Ignore everything
-*
+/*
+/*/
 
 ### Except
 !.vimrc
 !.zshrc
 !.gitignore
+!.bashrc
+
+### WTF Util
+!/.wtf/
