@@ -1,0 +1,1 @@
+alias og='open /Applications/Brave\ Browser.app $(git remote get-url origin)'
